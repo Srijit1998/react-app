@@ -5,7 +5,7 @@ import Card from "../UI/Card";
 import UserDetail from "../User/UserDetail";
 import MyInput from "../Input/MyInput";
 import MyButton from "../Button/MyButton";
-import MyPopover from "../../Popover/MyPopover";
+import MyPopover from "../Popover/MyPopover";
 import { API_KEY } from "../../api/api";
 import GifList from "../Gifs/GifList";
 

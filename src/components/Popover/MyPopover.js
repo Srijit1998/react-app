@@ -10,7 +10,7 @@ import {
   PopoverBody,
 } from "@chakra-ui/react";
 
-import "../index.css";
+import "../../index.css";
 
 const MyPopover = (props) => {
   const content = (

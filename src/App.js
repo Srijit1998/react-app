@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Layout from "./components/Layout";
+import Layout from "./components/Layout/Layout";
 import PostForm from "./components/PostForm/PostForm";
 import PostList from "./components/Posts/PostList";
 
