@@ -18,7 +18,7 @@ const PostForm = (props) => {
   useEffect(() => {
     const searchGif = async () => {
       const response = await fetch(
-        `http://api.giphy.com/v1/gifs/search?q=
+        `//api.giphy.com/v1/gifs/search?q=
         ${searchInputValue}
         &api_key=${API_KEY}&limit=5`
       );
